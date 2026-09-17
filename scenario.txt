@@ -1,0 +1,97 @@
+Auteur : BACAR Houssam
+
+
+Scénario  SPLIIIT
+
+
+ServeurInscription
+On démarre le serveur !
+On lance le Client !
+Un nouvel utilisateur souhaite s'inscrire.
+
+
+Il fournit les informations nécessaires
+pour créer un nouveau compte.
+
+Une fois les informations fournies, le
+système affiche un message indiquant
+le début du processus d'inscription.
+
+L'utilisateur démarre le processus en
+appelant une fonction qui communique
+avec le serveur pour enregistrer le
+nouveau compte.
+
+Étape de connexion
+
+L'utilisateur souhaite maintenant se
+connecter à son compte.
+Il fournit les informations de connexion
+requises.
+
+Le système affiche un message
+indiquant que l'étape de connexion
+commence.
+
+L'utilisateur entre ses informations de
+connexion via une fonction dédiée qui les
+transmet au serveur pour vérification.Connexion
+
+Après avoir fourni les informations de
+connexion, l'utilisateur essaie de se
+connecter.
+
+Le système communique avec le serveur
+pour vérifier les informations de connexion
+fournies par l'utilisateur.
+
+Si les informations sont correctes, l'utilisateur
+est connecté avec succès.Services
+Une fois connecté,
+l'utilisateur souhaite voir
+les services disponibles.
+
+Le système affiche une
+liste des services
+disponibles que
+l'utilisateur peut utiliser.Co-Abonnements
+
+Lister des Co-
+abonnements :
+L'utilisateur souhaite
+maintenant voir la liste
+des co-abonnement liés
+au service .
+
+
+Le système affiche une
+liste des Co-abonnements
+actuellement abonnés.Le payement
+
+Le système communique
+avec le serveur pour
+effectuer le paiement de
+l'abonnement.Déconnexion
+
+L'utilisateur a terminé ses
+activités et souhaite se
+déconnecter.
+
+Le système communique
+avec le serveur pour
+fermer la session de
+l'utilisateur.Désinscription
+
+L'utilisateur décide de se
+désinscrire du service.
+
+
+Le système communique
+avec le serveur pour
+supprimer le compte de
+l'utilisateur de la base de
+données du service.
+
+Coté Serveur : 
+Affichage monitoring
+
